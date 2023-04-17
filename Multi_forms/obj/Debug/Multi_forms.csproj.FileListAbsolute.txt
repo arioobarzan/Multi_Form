@@ -1,0 +1,12 @@
+C:\Users\gheir\source\repos\Multi_forms\Multi_forms\bin\Debug\Multi_forms.exe.config
+C:\Users\gheir\source\repos\Multi_forms\Multi_forms\bin\Debug\Multi_forms.exe
+C:\Users\gheir\source\repos\Multi_forms\Multi_forms\bin\Debug\Multi_forms.pdb
+C:\Users\gheir\source\repos\Multi_forms\Multi_forms\obj\Debug\Multi_forms.csprojAssemblyReference.cache
+C:\Users\gheir\source\repos\Multi_forms\Multi_forms\obj\Debug\Multi_forms.Properties.Resources.resources
+C:\Users\gheir\source\repos\Multi_forms\Multi_forms\obj\Debug\Multi_forms.csproj.GenerateResource.cache
+C:\Users\gheir\source\repos\Multi_forms\Multi_forms\obj\Debug\Multi_forms.csproj.CoreCompileInputs.cache
+C:\Users\gheir\source\repos\Multi_forms\Multi_forms\obj\Debug\Multi_forms.exe
+C:\Users\gheir\source\repos\Multi_forms\Multi_forms\obj\Debug\Multi_forms.pdb
+C:\Users\gheir\source\repos\Multi_forms\Multi_forms\obj\Debug\Multi_forms.Form1.resources
+C:\Users\gheir\source\repos\Multi_forms\Multi_forms\obj\Debug\Multi_forms.PayForm.resources
+C:\Users\gheir\source\repos\Multi_forms\Multi_forms\obj\Debug\Multi_forms.SearchForm.resources
